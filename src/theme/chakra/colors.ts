@@ -1,3 +1,4 @@
+
 export const colors = {
   grayDark: {
     100: "#222222",
@@ -22,7 +23,7 @@ export const colors = {
     900: "#222222",
   },
   border : {
-	  light: 'orange',
-	  dark: 'red'
+	  light: 'red',
+	  dark: 'blue'
   }
 };
